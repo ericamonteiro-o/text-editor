@@ -1,0 +1,15 @@
+/home/erica/Documents/csharp/TextEditor/bin/Debug/net8.0/TextEditor
+/home/erica/Documents/csharp/TextEditor/bin/Debug/net8.0/TextEditor.deps.json
+/home/erica/Documents/csharp/TextEditor/bin/Debug/net8.0/TextEditor.runtimeconfig.json
+/home/erica/Documents/csharp/TextEditor/bin/Debug/net8.0/TextEditor.dll
+/home/erica/Documents/csharp/TextEditor/bin/Debug/net8.0/TextEditor.pdb
+/home/erica/Documents/csharp/TextEditor/obj/Debug/net8.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/home/erica/Documents/csharp/TextEditor/obj/Debug/net8.0/TextEditor.AssemblyInfoInputs.cache
+/home/erica/Documents/csharp/TextEditor/obj/Debug/net8.0/TextEditor.AssemblyInfo.cs
+/home/erica/Documents/csharp/TextEditor/obj/Debug/net8.0/TextEditor.csproj.CoreCompileInputs.cache
+/home/erica/Documents/csharp/TextEditor/obj/Debug/net8.0/TextEditor.sourcelink.json
+/home/erica/Documents/csharp/TextEditor/obj/Debug/net8.0/TextEditor.dll
+/home/erica/Documents/csharp/TextEditor/obj/Debug/net8.0/refint/TextEditor.dll
+/home/erica/Documents/csharp/TextEditor/obj/Debug/net8.0/TextEditor.pdb
+/home/erica/Documents/csharp/TextEditor/obj/Debug/net8.0/TextEditor.genruntimeconfig.cache
+/home/erica/Documents/csharp/TextEditor/obj/Debug/net8.0/ref/TextEditor.dll
